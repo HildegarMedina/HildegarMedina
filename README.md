@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hildegar Medina, and I've been a Software Engineer for 6 years.</h2>
+<h2 align="left">Hi 👋! My name is Hildegar Medina, and I've been a Software Engineer for 7 years.</h2>
 
 ###
 
